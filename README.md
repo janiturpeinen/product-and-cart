@@ -1,4 +1,4 @@
-#I followed freecodecamp.org's YouTube tutorial on Vue.js. This site is repo has the results of it.
+# I followed freecodecamp.org's YouTube tutorial on Vue.js. This site is repo has the results of it.
 
 # product-and-cart
 
